@@ -381,7 +381,9 @@ span.arrow-down::after {
 .pf-hover-c:hover .pf-hover-overlay {
 	opacity: 1.0;
 }
-
+.overlay{
+	background: #020202c7;
+}
 .comment-c{
 	padding-top: 70px;
     text-align: center;
